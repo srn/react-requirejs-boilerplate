@@ -1,0 +1,16 @@
+{
+  "name": "msgbawla",
+  "version": "0.1.0",
+  "authors": [
+    "Søren Brokær <root@srn.io>"
+  ],
+  "description": "irc frontend client using React",
+  "keywords": [
+    "irc"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "~0.11.1"
+  }
+}
