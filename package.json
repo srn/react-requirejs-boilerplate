@@ -1,0 +1,14 @@
+{
+  "name": "msgbawla",
+  "version": "0.1.0",
+  "description": "irc frontend client using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "irc"
+  ],
+  "author": "Søren Brokær <root@srn.io>",
+  "license": "MIT"
+}
