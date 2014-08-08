@@ -10,5 +10,8 @@
     "irc"
   ],
   "author": "Søren Brokær <root@srn.io>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.3.9"
+  }
 }
