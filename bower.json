@@ -11,6 +11,9 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "react": "~0.11.1"
+    "react": "~0.11.1",
+    "requirejs": "~2.1.14",
+    "requirejs-text": "~2.0.12",
+    "r.js": "~2.1.14"
   }
 }
