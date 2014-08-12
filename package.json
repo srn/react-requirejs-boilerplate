@@ -12,6 +12,7 @@
   "author": "Søren Brokær <root@srn.io>",
   "license": "MIT",
   "dependencies": {
-    "bower": "^1.3.9"
+    "bower": "^1.3.9",
+    "react-tools": "^0.11.1"
   }
 }
