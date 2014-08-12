@@ -15,6 +15,6 @@
     "requirejs": "~2.1.14",
     "requirejs-text": "~2.0.12",
     "r.js": "~2.1.14",
-    "requirejs-react-jsx": "*"
+    "requirejs-react-jsx": "~0.1.1"
   }
 }

@@ -2,6 +2,7 @@ require.config({
   paths: {
     "react": "bower_components/react/react-with-addons",
     "JSXTransformer": "bower_components/react/JSXTransformer",
+    "text": "bower_components/requirejs-text/text",
     "jsx": "bower_components/requirejs-react-jsx/jsx"
   },
 
