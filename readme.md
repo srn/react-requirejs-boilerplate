@@ -1,5 +1,7 @@
 # react-requirejs-boilerplate
 
+[![Dependency Status](http://img.shields.io/gemnasium/srn/react-requirejs-boilerplate.svg?style=flat)](https://gemnasium.com/srn/react-requirejs-boilerplate)
+
 Really simple boilerplate for getting up and running with React.js and Require.js. Includes a build step.
 
 ### Running
